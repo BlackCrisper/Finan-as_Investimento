@@ -1,0 +1,5 @@
+C:\Users\android\Desktop\Antonio\FinacasConsole\FinacasConsole\obj\Debug\net6.0\FinacasConsole.csproj.AssemblyReference.cache
+C:\Users\android\Desktop\Antonio\FinacasConsole\FinacasConsole\obj\Debug\net6.0\FinacasConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\Antonio\FinacasConsole\FinacasConsole\obj\Debug\net6.0\FinacasConsole.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\Antonio\FinacasConsole\FinacasConsole\obj\Debug\net6.0\FinacasConsole.AssemblyInfo.cs
+C:\Users\android\Desktop\Antonio\FinacasConsole\FinacasConsole\obj\Debug\net6.0\FinacasConsole.csproj.CoreCompileInputs.cache

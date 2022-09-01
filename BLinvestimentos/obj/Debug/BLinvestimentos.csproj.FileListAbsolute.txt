@@ -1,0 +1,6 @@
+C:\Users\android\Desktop\Antonio\FinacasConsole\BLinvestimentos\bin\Debug\BLinvestimentos.dll
+C:\Users\android\Desktop\Antonio\FinacasConsole\BLinvestimentos\bin\Debug\BLinvestimentos.pdb
+C:\Users\android\Desktop\Antonio\FinacasConsole\BLinvestimentos\obj\Debug\BLinvestimentos.csproj.AssemblyReference.cache
+C:\Users\android\Desktop\Antonio\FinacasConsole\BLinvestimentos\obj\Debug\BLinvestimentos.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\Antonio\FinacasConsole\BLinvestimentos\obj\Debug\BLinvestimentos.dll
+C:\Users\android\Desktop\Antonio\FinacasConsole\BLinvestimentos\obj\Debug\BLinvestimentos.pdb
